@@ -12,7 +12,7 @@ Hi there! 👋 I'm Suhani Sinha<br>🚀 Currently Working On:<br><br>Frontend pr
 ![](https://nirzak-streak-stats.vercel.app/?user=SUHAANII&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUHAANII&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📈 LeetCode & GFG Stats:
+# 📈 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/suhanisinha2022?theme=dark&font=Abel&ext=activity)](https://leetcode.com/u/suhanisinha2022/)
 
 
