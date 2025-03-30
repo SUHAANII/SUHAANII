@@ -15,8 +15,7 @@ Hi there! 👋 I'm Suhani Sinha<br>🚀 Currently Working On:<br><br>Frontend pr
 # 📈 LeetCode & GFG Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/suhanisinha2022?theme=dark&font=Abel&ext=activity)](https://leetcode.com/u/suhanisinha2022/)
 
-### 📈 GeeksforGeeks Stats:
-[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/suhanisiicat/)
+
 
 
 ## 🏆 GitHub Trophies
